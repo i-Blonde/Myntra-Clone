@@ -1,0 +1,22 @@
+.menuUl{
+    display: flex;
+    justify-content: space-around;
+}
+ul li {
+    list-style: none;
+   
+    font-size: 12px;
+    line-height: normal;
+    letter-spacing: .3px;
+    font-weight: 500;
+    
+}
+ul li:hover {
+    /* cursor: pointer; */
+}
+.menuBar ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+
+}

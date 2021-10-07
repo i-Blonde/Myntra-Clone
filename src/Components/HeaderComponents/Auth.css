@@ -1,0 +1,14 @@
+.AuthUl{
+     display: flex; 
+     align-items: center;
+     height: 50px;
+    justify-content: space-around; 
+    letter-spacing: .3px;
+    font-weight: 500;
+}
+.AuthUl li a{
+    font-size: 12px;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
